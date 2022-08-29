@@ -1,0 +1,5 @@
+These are the commands used in the video:
+#+begin_src sql
+SELECT * FROM artists WHERE name LIKE "% Sabbath%";
+SELECT * FROM artists WHERE name LIKE "%Black%";
+#+end_src
